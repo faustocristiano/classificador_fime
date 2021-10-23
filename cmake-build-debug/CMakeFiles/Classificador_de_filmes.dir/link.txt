@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Classificador_de_filmes.dir/main.cpp.o -o Classificador_de_filmes 
